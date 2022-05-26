@@ -1,0 +1,4 @@
+Username = "  cecep"
+Passwrod = "  admin"
+
+*Note = tanpa tanda (")
